@@ -2,3 +2,4 @@
 if(installedModules[moduleId]) {
 /******/ 			return installedModules[moduleId].exports;
 /******/ 		}
+// Control chars:  test

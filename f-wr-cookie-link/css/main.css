@@ -31850,3 +31850,6 @@ html {
           letter-spacing: -0.017em; } }
       .timeline-v24.timeline-v24__show-more .timeline-v24__show-more__button:focus {
         outline-offset: 0.12rem; }
+
+.test​-class { color: blue; }
+.another‌-class { color: green; }

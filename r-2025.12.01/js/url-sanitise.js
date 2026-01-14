@@ -2,3 +2,6 @@
 if(installedModules[moduleId]) {
 /******/ 			return installedModules[moduleId].exports;
 /******/ 		}
+// Binary content test
+‰PNG
+
