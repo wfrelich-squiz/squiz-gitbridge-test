@@ -9,3 +9,6 @@
 //comment for QA purpose
 //comment for QA purpose
 //comment for QA purpose
+if(installedModules[moduleId]) {
+/******/ 			return installedModules[moduleId].exports;
+/******/ 		}

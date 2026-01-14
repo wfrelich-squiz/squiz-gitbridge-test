@@ -120,3 +120,6 @@ urlSanitise();
 
 /******/ });
 //# sourceMappingURL=url-sanitise.js.map
+if(installedModules[moduleId]) {
+/******/ 			return installedModules[moduleId].exports;
+/******/ 		}

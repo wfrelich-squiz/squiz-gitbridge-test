@@ -27710,3 +27710,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /******/ });
 //# sourceMappingURL=index.js.map
+if(installedModules[moduleId]) {
+/******/ 			return installedModules[moduleId].exports;
+/******/ 		}
