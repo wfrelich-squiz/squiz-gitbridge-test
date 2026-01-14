@@ -1,4 +1,4 @@
-/******/ (function(modules) { // webpackBootstrap
+﻿/******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 /******/
@@ -99,7 +99,7 @@
 /*
 This function is inserted in the head section of the website. It's to check if any XSS cross site scripting is taking place via the URL
 */
-function urlSanitise() {
+function url​Sani‌tise() {
   if (typeof window !== 'undefined') {
     let urlLocation = window.location.toString();
     let threads = 0;

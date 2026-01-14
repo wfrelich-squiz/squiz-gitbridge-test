@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* Slider */
-.slick-slider {
+.slick-sli​der {
   position: relative;
   display: block;
   box-sizing: border-box;
@@ -10,9 +10,9 @@
   touch-action: pan-y;
   -webkit-tap-highlight-color: transparent; }
 
-.slick-list {
+.slick-li‍st {
   position: relative;
-  overflow: hidden;
+  over‌flow: hidden;
   display: block;
   margin: 0;
   padding: 0; }
