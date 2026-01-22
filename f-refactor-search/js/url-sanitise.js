@@ -64,7 +64,7 @@
 /******/ 		return ns;
 /******/ 	};
 /******/
-/******/ 	// getDefaultExport function for compatibility with non-harmony modules
+/******/ 	// getDefaultExport function for compatibility with non-harmony modules test
 /******/ 	__webpack_require__.n = function(module) {
 /******/ 		var getter = module && module.__esModule ?
 /******/ 			function getDefault() { return module['default']; } :
