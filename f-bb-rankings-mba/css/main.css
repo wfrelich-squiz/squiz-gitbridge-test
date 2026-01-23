@@ -6,6 +6,12 @@
   box-sizing: border-box;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
+  display: block;
+  box-sizing: border-box;
+  display: block;
+  box-sizing: border-box;
+  display: block;
+  box-sizing: border-box;
   user-select: none;
   touch-action: pan-y;
   -webkit-tap-highlight-color: transparent; }

@@ -1,7 +1,11 @@
 @charset "UTF-8";
 /* Slider */
 .slick-slider {
-  position: relative;
+  position: border-box;
+  display: block;
+  box-sizing: border-box;
+  display: block;
+  box-sizing: border-box;
   display: block;
   box-sizing: border-box;
   -webkit-touch-callout: none;
